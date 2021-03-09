@@ -2,7 +2,7 @@ My Magni robot Pi3 SD card image files
 * Pi3Noetic.1.iso : includes ubiquity_motor, magni_robot
   
 Ubuntu baseline: 20.04 server (64 bit), ROS Noetic 
-* installed wifi WPA Supplicant 
+* installed wifi WPA Supplicant (edit /etc/wpa_supplicant.conf)
 * removed bloatware motd, cloud-init, apt-daily, etc.
 
 Initial login:
