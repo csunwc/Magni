@@ -1,15 +1,15 @@
-SD card image files
-* Pi3Noetic.1.iso : ROS Noetic on Pi3 Ubuntu 20.04 server
-<br>including the following pkg :
-  ubiquity_motor,
-  magni_robot
+My hand-made Magni robot Pi3 SD card image files
+* Pi3Noetic.1.iso : includes ubiquity_motor, magni_robot
   
-hostname: magni
-<br>username: ubuntu
-<br>password: ubuntu
+Ubuntu baseline: 20.04 server, ROS Noetic 
+* installed wifi WPA Supplicant 
+* removed bloatware motd, cloud-init, apt-daily, etc.
 
-<br>installed wifi WPA Supplicant 
-<br>removed bloatware motd, cloud-init, apt-daily, etc.
+Initial login:
+* SSH via wired LAN or monitor-keyboard hookup
+* hostname: magni
+* username: ubuntu
+* password: ubuntu
 
 Tips for compiling:
 1. serial pkg comes from 
