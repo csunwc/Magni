@@ -1,2 +1,2 @@
 # Magni
-My files for Ubiquity Magni robot. TBD
+My files for Ubiquity Magni robot.
