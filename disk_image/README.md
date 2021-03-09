@@ -1,11 +1,13 @@
 SD card image files
 * Pi3Noetic.1.iso : ROS Noetic on Pi3 Ubuntu 20.04 server
-including the following pkg 
-  ubiquity_motor
+<p>including the following pkg :
+  ubiquity_motor,
   magni_robot
-hostname: magni
-username: ubuntu
-password: ubuntu
+  
+<p>hostname: magni
+<p>username: ubuntu
+<p>password: ubuntu
+
 installed wifi WPA Supplicant 
 removed bloatware motd, cloud-init, apt-daily, etc.
 
