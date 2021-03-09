@@ -1,4 +1,4 @@
-My hand-made Magni robot Pi3 SD card image files
+My Magni robot Pi3 SD card image files
 * Pi3Noetic.1.iso : includes ubiquity_motor, magni_robot
   
 Ubuntu baseline: 20.04 server, ROS Noetic 
