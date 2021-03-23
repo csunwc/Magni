@@ -1,6 +1,6 @@
 *** WORK IN PROGRESS ***
 
-My Magni robot Pi3/4 SD card image making note. target packages: ubiquity_motor, magni_robot
+My Magni robot Pi3/4 SD card image making note. target: ROS Noetic, Ubuntu 20.04 server (64/32 bit). ROS packages: ubiquity_motor, magni_robot
 
 * original - original boot config that comes with Ubutun 20.04 32 bit. It causes Pi/MCU communication problem by swaping serial port ttyS0 and ttyAMA0. 
 
