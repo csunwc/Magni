@@ -2,7 +2,7 @@
 
 My Magni robot Pi3/4 SD card image making note. target packages: ubiquity_motor, magni_robot
 
-* original - original boot config that comes with Ubutun 20.04 32 bit. It causes problem by swaping up serial port ttyS0 and ttyAMA0. 
+* original - original boot config that comes with Ubutun 20.04 32 bit. It causes Pi/MCU communication problem by swaping serial port ttyS0 and ttyAMA0. 
 
 * modify - changes based on Alan's note. It fixed the serial issue.
 
